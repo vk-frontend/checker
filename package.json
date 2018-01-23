@@ -1,0 +1,26 @@
+{
+  "name": "checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vk-frontend/checker.git"
+  },
+  "author": "Zaur-Lumanov, povargek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vk-frontend/checker/issues"
+  },
+  "homepage": "https://github.com/vk-frontend/checker#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "sqlite3": "^3.1.13",
+    "telegraf": "^3.17.5"
+  }
+}
